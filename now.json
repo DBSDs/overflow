@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "rc-overflow",
+  "cleanUrls":true,
   "builds": [
     {
       "src": "package.json",

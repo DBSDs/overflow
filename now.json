@@ -8,8 +8,5 @@
       "use": "@vercel/static-build",
       "config": { "distDir": "docs-dist" }
     }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/rc-overflow/$1" }
   ]
 }
